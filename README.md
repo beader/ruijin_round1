@@ -4,9 +4,14 @@
 
 注: 由于 github 对 `.ipynb` 渲染效果不是很好，代码建议通过 [nbviewer](http://nbviewer.jupyter.org/github/beader/ruijin_round1/blob/master/BiLSTM_CRF.ipynb) 查看。
 
+复赛代码见 [beader/ruijin_round2](https://github.com/beader/ruijin_round2)
+
+
 ## 背景
 
-本次大赛旨在通过糖尿病相关的教科书、研究论文来做糖尿病文献挖掘并构建糖尿病知识图谱。初赛赛题在学术论文和临床指南的基础上，做实体的标注。实体类别共十五类.
+本次大赛旨在通过糖尿病相关的教科书、研究论文来做糖尿病文献挖掘并构建糖尿病知识图谱。
+
+初赛赛题在学术论文和临床指南的基础上，做实体的标注。实体类别共十五类。
 
 类别名称和实体定义:
 
