@@ -2,7 +2,9 @@
 
 [竞赛链接](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231687)
 
-注: 由于 github 对 `.ipynb` 渲染效果不是很好，代码建议通过 [nbviewer](http://nbviewer.jupyter.org/github/beader/ruijin_round1/blob/master/BiLSTM_CRF.ipynb) 查看。
+> :warning: 由于可能存在的版权问题，请自行联系大赛主办方索要数据，在 Issues 中索要数据的请求将不再回复，谢谢!
+
+> :bulb: github 对 `.ipynb` 渲染效果不是很好，代码建议通过 [nbviewer](http://nbviewer.jupyter.org/github/beader/ruijin_round1/blob/master/BiLSTM_CRF.ipynb) 查看。
 
 复赛代码见 [beader/ruijin_round2](https://github.com/beader/ruijin_round2)
 
