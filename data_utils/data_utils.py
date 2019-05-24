@@ -57,7 +57,7 @@ class Sentence(object):
             ents.append({'start': ent.start_pos,
                          'end': ent.end_pos,
                          'label': ent.category})
-        ex = {'text': self.text, 'ents': ents, 'title': None}
+        ex = {'text': self.text, 'ents': ents, 'title': None, 'settings': {}}
         return displacy.render(ex,
                                style='ent',
                                options={'colors': COLOR_MAP},
